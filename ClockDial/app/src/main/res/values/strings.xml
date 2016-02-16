@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClockDial</string>
+    <string name="current_time">Current Time</string>
+</resources>
